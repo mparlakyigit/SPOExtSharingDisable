@@ -1,5 +1,5 @@
 # SharePoint Online External Sharing Disable
-Bu PowerShell betiği ile SharePoint Online yapınızı tüm dış dünyaya kapatabilirsiniz. 
+Bu PowerShell betiği ile SharePoint Online paylaşımlarınızı tüm dış dünyaya kapatabilirsiniz. 
 
 ![SharePointExtDisable3](https://user-images.githubusercontent.com/53214224/167172898-0ebe174f-d69f-4a5f-94db-fa7db2122e03.png)
 - Kırmızı kara içerisindeki değişkene SharePoint Organizasyon isminizi yazmanız gerekmektedir.
